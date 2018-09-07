@@ -1,0 +1,21 @@
+{
+  "name": "auto-tel-resources",
+  "version": "0.0.1",
+  "description": "static files of auto-tel",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auto-tel/auto-tel-resources.git"
+  },
+  "keywords": [
+    "auto-tel",
+    "static",
+    "resource"
+  ],
+  "author": "ZHAO Xudong <zxdong@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/auto-tel/auto-tel-resources/issues"
+  },
+  "homepage": "https://github.com/auto-tel/auto-tel-resources#readme"
+}
