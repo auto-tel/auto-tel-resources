@@ -1,6 +1,6 @@
 {
   "name": "@auto-tel/auto-tel-resources",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "static files of auto-tel",
   "main": "index.js",
   "repository": {
