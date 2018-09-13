@@ -1,5 +1,5 @@
 {
-  "name": "auto-tel-resources",
+  "name": "@auto-tel/auto-tel-resources",
   "version": "0.0.1",
   "description": "static files of auto-tel",
   "main": "index.js",
